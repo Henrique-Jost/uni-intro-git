@@ -1,6 +1,6 @@
 # Guia Básico de Git para o Projeto
 
-Este documento explica os comandos Git utilizados no seu projeto, executados no terminal do macOS. Também com os prints/bash de cada comando, e ao final as imagens do terminal
+Este documento explica os comandos Git utilizados no projeto, executados no terminal do macOS. Também com os prints/bash de cada comando, e ao final as imagens do terminal
 - Cometi um erro em um commit
 
 ## Inicialização do Projeto
